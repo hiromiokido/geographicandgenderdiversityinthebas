@@ -6,7 +6,7 @@ O artigo, de Agosto de 2018, foi produzido pelas autoras Nathália C. Ferrari, R
 Para saber mais acesse: https://doi.org/10.1590/0001-3765201820170107
 
 
-A produção dos programas foi um trabalho conjunto das autoras.
+A produção dos programas foi um trabalho conjunto das autoras.  
 A publicação destes dois gráficos no GitHub foi autorizada por uma das organizadoras, Professora Dra. Carolina Brito (UFRGS).
 
 Licensed under GNU General Public License v3.0.
