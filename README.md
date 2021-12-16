@@ -1,4 +1,4 @@
-# Geographic and Gender Diversity in the Brazilian Academy of Sciences
+# Geographic and Gender Diversity in the Brazilian Academy of Sciences (Article)
 Programa de dois gráficos que integram o artigo "Geographic and Gender Diversity in the Brazilian Academy of Sciences". Foram feitos usando a linguagem de programação R.
 
 Figura (esquerda - students per year): Número médio de produção de recursos humanos nas diferentes áreas pelos membros masculinos (eixo x) e femininos (eixo y) da ABC.  
