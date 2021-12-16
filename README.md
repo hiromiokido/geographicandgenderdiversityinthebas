@@ -5,7 +5,7 @@ O artigo, de Agosto de 2018, foi produzido pelas autoras Nathália C. Ferrari, R
 
 Para saber mais acesse: https://doi.org/10.1590/0001-3765201820170107
 
-Legenda das figuras:
+Legenda das figuras:  
 Figura (esquerda - students per year): Número médio de produção de recursos humanos nas diferentes áreas pelos membros masculinos (eixo x) e femininos (eixo y) da ABC.  
 Figura (direita - publications per year): Número médio de produção de artigos nas diferentes áreas pelos membros masculinos (eixo x) e femininos (eixo y) da ABC.
 
